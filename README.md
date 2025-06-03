@@ -1,7 +1,3 @@
-Claro! Abaixo está uma versão aprimorada do README para o projeto [Streamlit-Wildfire-Risk-Prediction-Project](https://github.com/dede0702/Streamlit-Wildfire-Risk-Prediction-Project), incorporando melhores práticas de documentação e sugestões inspiradas em projetos semelhantes:
-
----
-
 # 🔥 Previsão de Risco de Incêndios Florestais no Brasil com Streamlit
 
 ![Interface do Aplicativo](https://github.com/dede0702/Streamlit-Wildfire-Risk-Prediction-Project/blob/main/images/app_screenshot.png)
@@ -102,6 +98,7 @@ Streamlit-Wildfire-Risk-Prediction-Project/
 * **Leonardo Zago** - RM558691
 
 **Turma**: 2TIAPY
+
 **Disciplina**: Front End & Mobile Development
 
 ## 🤝 Contribuições
@@ -111,7 +108,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## 📄 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Se desejar, posso ajudá-lo a traduzir este README para o inglês ou adaptá-lo conforme suas necessidades específicas.
